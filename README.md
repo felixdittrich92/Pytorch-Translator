@@ -1,1 +1,2 @@
 # Pytorch-Translator
+German -> English
